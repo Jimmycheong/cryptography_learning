@@ -4,7 +4,7 @@ The following repository contains a collection of jupyter notebooks exploring ho
 
 |Notebook| Contents|
 |-|-| 
-|NB01_learning_hashing.ipynb|How to create hashes using hashlib|
-|NB02_how_to_encrypt_in_python.ipynb|Encryption using AES|
-|NB03_encryption_key_pair_generation.ipynb|Creating PEM key pair, using keypair to sign and verify|
-|NB04_encrypting_a_block.ipynb|Signing a block header using a keypair and verifying| 
+|[NB01_learning_hashing.ipynb](/NB01_learning_hashing.ipynb)|How to create hashes using hashlib|
+|[NB02_how_to_encrypt_in_python.ipynb](/NB02_how_to_encrypt_in_python.ipynb)|Encryption using AES|
+|[NB03_encryption_key_pair_generation.ipynb](/NB03_encryption_key_pair_generation.ipynb)|Creating PEM key pair, using keypair to sign and verify|
+|[NB04_encrypting_a_block.ipynb](NB04_encrypting_a_block.ipynb)|Signing a block header using a keypair and verifying| 
